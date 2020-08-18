@@ -19,6 +19,8 @@ I am Annu Jolly, an exuberant tech enthusiast, and a self taught programmer. Eve
 
 
 
-![Annu's github stats](https://github-readme-stats.vercel.app/api?username=annu12340&show_icons=true&hide=[%22issues%22])
+![Annu's github stats](https://github-readme-stats.vercel.app/api?username=annu12340&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=[%22issues%22])
+
+![Annu's github stats](https://github-readme-stats.vercel.app/api?username=annu12340&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
  
  
