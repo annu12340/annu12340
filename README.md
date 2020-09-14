@@ -6,8 +6,9 @@ I am Annu Jolly, an exuberant tech enthusiast, and a self taught programmer. Eve
 <br/>
 
 ### My Strategy 👇
-<img src="https://user-images.githubusercontent.com/43414928/93064421-22a4b100-f695-11ea-8186-5c3740491fec.png" />
+<img src="https://user-images.githubusercontent.com/43414928/93064421-22a4b100-f695-11ea-8186-5c3740491fec.png"  align='right' />
 
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## :computer: Technologies that I am good at
 * Front-end development using  Javascript, jquery, CSS, Bootstrap 
