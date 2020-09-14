@@ -3,6 +3,8 @@ I am Annu Jolly, an exuberant tech enthusiast, and a self taught programmer. Eve
 
 [![Linkedin Badge](https://img.shields.io/badge/-annu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/annu-jolly/)](https://www.linkedin.com/in/annu-jolly/) [![Gmail Badge](https://img.shields.io/badge/-annujolly17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:annujolly17@gmail.com)](mailto:annujolly17@gmail.com)
 
+<br/>
+
 ### My Strategy 👇
 <img src="https://user-images.githubusercontent.com/43414928/93064421-22a4b100-f695-11ea-8186-5c3740491fec.png" />
 
