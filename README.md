@@ -1,12 +1,12 @@
-<h2> Hello, this is Annu  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="https://c7.uihere.com/files/460/923/629/5b95b150a626e.jpg">
+<h2> Hello, this is Annu  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img   src="https://c7.uihere.com/files/460/923/629/5b95b150a626e.jpg" align='left'>
 I am Annu Jolly, an exuberant tech enthusiast, and a self taught programmer. Even though I am not an impeccable programmer, I love the world of coding. I am trying to create magic with 0's and 1's
 
 [![Linkedin Badge](https://img.shields.io/badge/-annu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/annu-jolly/)](https://www.linkedin.com/in/annu-jolly/) [![Gmail Badge](https://img.shields.io/badge/-annujolly17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:annujolly17@gmail.com)](mailto:annujolly17@gmail.com)
 
 
 ### My Strategy 👇
-<img src="https://user-images.githubusercontent.com/43414928/93064421-22a4b100-f695-11ea-8186-5c3740491fec.png" />
-
+<img src="https://user-images.githubusercontent.com/43414928/93064421-22a4b100-f695-11ea-8186-5c3740491fec.png"  />
+<br/>
 
 ## :computer: Technologies I Love
 * Front-end development using  Javascript, jquery, CSS, Bootstrap 
