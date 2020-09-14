@@ -6,7 +6,6 @@ I am Annu Jolly, an exuberant tech enthusiast, and a self taught programmer. Eve
 
 ### My Strategy 👇
 <img src="https://user-images.githubusercontent.com/43414928/93064421-22a4b100-f695-11ea-8186-5c3740491fec.png" align='left'/>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
 ## :computer: Technologies I Love
