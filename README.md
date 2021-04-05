@@ -1,10 +1,25 @@
 
-<h3> Hello world, this is Annu  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="https://c7.uihere.com/files/460/923/629/5b95b150a626e.jpg" width="400px"> </h3>
-I am a pre-final year CS student with a great passion for programming. I am trying to create magic with 0's and 1's. The green dots on my GitHub profile show my developer journey
+<h3> < Hello world, I'm <a href="https://annujolly.netlify/" target="_blank"> Annu Jolly</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="https://c7.uihere.com/files/460/923/629/5b95b150a626e.jpg" width="400px"> </h3>
+I am a pre-final year CS student with a great passion for programming. I am trying to create magic with 0's and 1's. The green dots on my GitHub profile show my developer journey. I have experimented with AI, NLP, Blockchain etc but found my niche domain in full stack development 
 
 <br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-annu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/annu-jolly/)](https://www.linkedin.com/in/annu-jolly/) [![Gmail Badge](https://img.shields.io/badge/-annujolly17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:annujolly17@gmail.com)](mailto:annujolly17@gmail.com)
+
+##### A little more about me...  
+
+```javascript
+const Annu = {
+  Pronouns: "she" | "her",
+  Description : [Passionate, Optimistic, Bibliophile, Tech enthusiast and a lot more ],
+  Education : 
+           [ 
+           { Collge: Govt Model engineering college, Year :2018-22  }, 
+           { School : Campion School, Year : 2016-18 } 
+           ],
+ Experience : ['Intern @ Twitter', 'Backend developer at StorFront ', 'React developer at TGH Technologies ' ]
+}
+```
 
 ## :computer: Languages that I speak
 * Front-end development :  React, Redux, Bootstrap, Materialize, Figma
@@ -15,8 +30,9 @@ I am a pre-final year CS student with a great passion for programming. I am tryi
 
 
 
-
-![Annu's github stats](https://github-readme-stats.vercel.app/api?username=annu12340&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=annu12340&theme=radical&show_icons=true" alt="Annu's Github Stats" />
+</p>
 
 
 
