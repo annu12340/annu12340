@@ -6,8 +6,9 @@ I am trying to create magic with 0's and 1's. The green dots on my GitHub profil
 
 [![Linkedin Badge](https://img.shields.io/badge/-annu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/annu-jolly/)](https://www.linkedin.com/in/annu-jolly/) [![Gmail Badge](https://img.shields.io/badge/-annujolly17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:annujolly17@gmail.com)](mailto:annujolly17@gmail.com)
 ![Twitter Badge](https://img.shields.io/badge/-annu-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/annu_010_)
-<br/>
-══════════════════════════ ⋆★⋆ ══════════════════════════
+<br/> <br/>
+═════════════════ ⋆★⋆ ═════════════════
+<br/><br/>
 #### A little more about me... 
 
 ```javascript
