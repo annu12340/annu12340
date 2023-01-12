@@ -10,6 +10,7 @@ I am also proud of my participation and wins in several national and internation
 
 [![Linkedin Badge](https://img.shields.io/badge/-annu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/annu-jolly/)](https://www.linkedin.com/in/annu-jolly/) [![Gmail Badge](https://img.shields.io/badge/-annujolly17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:annujolly17@gmail.com)](mailto:annujolly17@gmail.com)
 ![Twitter Badge](https://img.shields.io/badge/-annu-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/annu_010_)
+
 <br/> <br/>
 ═════════════════ ⋆★⋆ ═════════════════
 <br/><br/>
@@ -34,14 +35,13 @@ const Annu = {
             'React developer at TGH Technologies' ]
 }
 ```
-<img  align='right' src="https://user-images.githubusercontent.com/43414928/212021984-9fd64646-e6df-4160-a21d-c45c9205b6ed.png" width="300px">
+
+<img  align='right' src="https://user-images.githubusercontent.com/43414928/212058957-d41e56ae-11ea-4cea-8e2c-ffda67a592a7.png" width="300px"/>
 
 ### :computer: Languages that I speak
 * Front-end development :  React, Redux, Javascript, Bootstrap, Materialize, Figma, Zeplin
 * Backend development : Flask, Django, Pytest , MySQL, Postgress
 * DevOps: Bash, Jenkins, Github actions, Docker, Hadoop
 
-
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=annu12340&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
