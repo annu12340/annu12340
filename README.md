@@ -1,23 +1,47 @@
 <!-- Profile Views Counter -->
-![](https://komarev.com/ghpvc/?username=annu12340&color=red)
+![](https://komarev.com/ghpvc/?username=annu12340&color=blue)
 
 <h3> < Hello world, I'm <a href="https://annujolly.netlify/" target="_blank"> Annu Jolly</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img  align='right' src="https://user-images.githubusercontent.com/43414928/113603231-5101d200-9661-11eb-9dcf-93d0401a7287.png" width="300px"> </h3>
 <p>
-As a developer with a passion for creating magic with code, I strive to push the limits of what's possible with 0's and 1's. The green dots on my GitHub profile show my developer journey. I worked as an SRE at Twitter. I have also interned at Twitter, GitHub and StorFront. I am honored to have been recognized for my talents and potential, receiving the Linux International Diversity Scholarship and being named a GHC) andGHCI scholar. <br/>
             
-I am also proud of my participation and wins in several national and international hackathons, which have been a great opportunity to showcase my creativity, problem-solving skills, and ability to work under pressure to deliver exceptional results. All these achievements are a testament to my dedication to learning and pushing the boundaries of what's possible in the field of programming.  
-</p>
+As a developer with a passion for creating magic with code,  I love building things from the ground up—be it a scalable production application or a last-minute hackathon MVP.
 
+🏢 Engineering adventures: 
+- AI Infrastructure enginer @ Nvidia. 
+- Former SRE at Twitter;
+- Interned with the amazing teams at Twitter, GitHub, & StorFront.
+
+🔭 Current focus: 
+- Distributed systems, microservices, workflow orchestration, and keeping infrastructure up & alive !
+
+🥇 Hackathon warrior:  
+- Winner and finalist at 10+ national & international hackathons.
+- Love solving real-world problems under pressure and with creative teams!
+
+🏆 Recognized for impact:
+- Linux International Diversity Scholarship recipient
+- GHC and GHCI Scholar
+  
 
 ═════════════════ ⋆★⋆ ═════════════════
 
 
 <img  align='right' src="https://user-images.githubusercontent.com/43414928/212058957-d41e56ae-11ea-4cea-8e2c-ffda67a592a7.png" width="300px"/>
 
-### :computer: Languages that I speak
+### 🧰 My Toolbox
+* Cloud & DevOps: Kubernetes, Docker, Helm, GCP
+* Workflow Orchestration: Temporal, Airflow, GitHub piplines
 * Front-end development :  React, Redux, Javascript, Bootstrap, Materialize, Figma, Zeplin
 * Backend development : Flask, Django, Pytest , MySQL, Postgress
 * DevOps: Bash, Jenkins, Github actions, Docker, Hadoop
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=annu12340&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+### 📊 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=annu12340&show_icons=true&theme=radical&hide_border=true" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annu12340&theme=radical&hide_border=true" width="400"/>
+</p>
+
+
+Thanks for stopping by! 🚀
