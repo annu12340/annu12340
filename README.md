@@ -35,7 +35,7 @@ As a developer with a passion for creating magic with code,  I love building thi
 * Backend development : Flask, Django, Pytest , MySQL, Postgress
 * DevOps: Bash, Jenkins, Github actions, Docker, Hadoop
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=annu12340&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=kubernetes,flask,django,html,css,js,py,c,sass,bash,cpp,mysql,bootstrap,tailwindcss,react,nextjs,aws,gcp,jquery,bash,vscode,pycharm,figma,git,azure,npm,postman,aws,grafana,heroku,vercel,netlify,go,redis,vim,docker,windows,linux,ubuntu&perline=16" alt="Languages" />
 
 ### 📊 GitHub Stats & Activity
 <p align="center">
